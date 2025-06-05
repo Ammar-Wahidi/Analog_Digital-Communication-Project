@@ -1,7 +1,7 @@
 # Analog and Digital Communication Project
 
 ## Overview
-This repository contains the code and documentation for the **Analog & Digital Communication Project** submitted for the course **Fundamental of Communication Systems (ECE 252)**. The project is divided into two main parts: **Analog Communication** and **Digital Communication**, focusing on signal processing, modulation, and demodulation techniques using Octave.
+This repository contains the code and documentation for the **Analog & Digital Communication Project** submitted for the course **Fundamental of Communication Systems (ECE 252)**. The project is divided into two main parts: **Analog Communication** and **Digital Communication**, focusing on signal processing, modulation, and demodulation techniques using Matlab.
 
 The project was completed by:
 - Amr Ahmed Wahidi (ID: 2200429)
@@ -49,7 +49,7 @@ Key tasks include:
 
 ## Prerequisites
 To run the scripts in this repository, you need:
-- **Octave** (or MATLAB) installed on your system.
+- **MATLAB** (or Octave) installed on your system.
 - Basic understanding of signal processing and communication systems.
 
 ## How to Run
@@ -79,8 +79,3 @@ To run the scripts in this repository, you need:
 ## References
 - *Introduction to Analog and Digital Communications* by Simon Haykin and Michael Moher.
 
-## License
-This project is for educational purposes and is shared under the MIT License.
-
-## Contact
-For any questions or issues, please contact the team via the GitHub repository or through the course instructors.
