@@ -45,7 +45,6 @@ Key tasks include:
 - **/analog**: Contains Octave scripts for analog communication tasks, including signal plotting, Fourier transforms, filtering, and modulation (DSB-SC, SSB, FDM).
 - **/digital**: Contains Octave scripts for digital communication tasks, including line coding (Unipolar NRZ, Manchester) and BPSK modulation/demodulation.
 - **/report**: The project report (`Communication Project Report.pdf`) detailing the methodology, code, results, and analysis.
-- **README.md**: This file, providing an overview of the project and instructions.
 
 ## Prerequisites
 To run the scripts in this repository, you need:
