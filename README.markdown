@@ -4,11 +4,11 @@
 This repository contains the code and documentation for the **Analog & Digital Communication Project** submitted for the course **Fundamental of Communication Systems (ECE 252)**. The project is divided into two main parts: **Analog Communication** and **Digital Communication**, focusing on signal processing, modulation, and demodulation techniques using Matlab.
 
 The project was completed by:
-- Amr Ahmed Wahidi (ID: 2200429)
-- Ammar Ahmed Wahidi (ID: 2200360)
-- Abdelrahman Essam Fahmy (ID: 2200251)
-- Mohamed Yehia Saeed (ID: 2200918)
-- Sobhey Mohamed Osman (ID: 2200477)
+- Amr Ahmed Wahidi 
+- Ammar Ahmed Wahidi 
+- Abdelrahman Essam Fahmy 
+- Mohamed Yehia Saeed 
+- Sobhey Mohamed Osman 
 
 **Submitted to**: Dr. Mazen Erfan, Dr. Alaa Fathy, Eng. Ahmed Al-Sayed, Eng. Ahmed Khaled  
 **Submission Date**: June 5th, 2025
